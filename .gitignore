@@ -72,3 +72,9 @@ tp2/
 fbcode/
 fbcode
 buckifier/*.pyc
+oss-buckifier/*.pyc
+BUCK
+.buckconfig
+.buckversion
+buck-out/
+.buckd/
